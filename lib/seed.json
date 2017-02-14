@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Item 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis hendrerit porttitor. Vestibulum commodo pretium nisi cursus sollicitudin. Fusce sit.",
+    "active": true,
+    "list": [
+      "item1",
+      "item2"
+    ]
+  },
+  {
+    "name": "Item 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ipsum vehicula, pharetra lacus at, elementum nibh. Aliquam porta mattis.",
+    "active": true,
+    "list": [
+      "item3",
+      "item4"
+    ]
+  }
+]
