@@ -28,7 +28,6 @@ before('before', function (assert) {
 
 test('creates an item and returns it', assert => {
   service.create(seed[0], (err, result) => {
-    console.log(err);
     assert.ok(err === null, 'No Service Error');
     assert.ok(result.success, 'Should be success');
     assert.same('Success', result.message, 'Message should be success');
